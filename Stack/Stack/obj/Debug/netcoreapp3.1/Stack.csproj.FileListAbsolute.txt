@@ -1,0 +1,14 @@
+E:\fellowship\DAY_14\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+E:\fellowship\DAY_14\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+E:\fellowship\DAY_14\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+E:\fellowship\DAY_14\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+E:\fellowship\DAY_14\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+E:\fellowship\DAY_14\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+E:\fellowship\DAY_14\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
