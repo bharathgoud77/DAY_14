@@ -1,0 +1,13 @@
+E:\fellowship\DAY_14\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.exe
+E:\fellowship\DAY_14\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.deps.json
+E:\fellowship\DAY_14\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.runtimeconfig.json
+E:\fellowship\DAY_14\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.runtimeconfig.dev.json
+E:\fellowship\DAY_14\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.dll
+E:\fellowship\DAY_14\StackPop\StackPop\bin\Debug\netcoreapp3.1\StackPop.pdb
+E:\fellowship\DAY_14\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.AssemblyInfo.cs
+E:\fellowship\DAY_14\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.dll
+E:\fellowship\DAY_14\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.pdb
+E:\fellowship\DAY_14\StackPop\StackPop\obj\Debug\netcoreapp3.1\StackPop.genruntimeconfig.cache
