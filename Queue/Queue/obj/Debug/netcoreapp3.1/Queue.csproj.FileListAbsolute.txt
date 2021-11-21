@@ -1,0 +1,13 @@
+E:\fellowship\DAY_14\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+E:\fellowship\DAY_14\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+E:\fellowship\DAY_14\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+E:\fellowship\DAY_14\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+E:\fellowship\DAY_14\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+E:\fellowship\DAY_14\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+E:\fellowship\DAY_14\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+E:\fellowship\DAY_14\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+E:\fellowship\DAY_14\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+E:\fellowship\DAY_14\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
