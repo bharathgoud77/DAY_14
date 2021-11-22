@@ -1,0 +1,13 @@
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\bin\Debug\netcoreapp3.1\LinekdListUC_6.exe
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\bin\Debug\netcoreapp3.1\LinekdListUC_6.deps.json
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\bin\Debug\netcoreapp3.1\LinekdListUC_6.runtimeconfig.json
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\bin\Debug\netcoreapp3.1\LinekdListUC_6.runtimeconfig.dev.json
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\bin\Debug\netcoreapp3.1\LinekdListUC_6.dll
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\bin\Debug\netcoreapp3.1\LinekdListUC_6.pdb
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\obj\Debug\netcoreapp3.1\LinekdListUC_6.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\obj\Debug\netcoreapp3.1\LinekdListUC_6.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\obj\Debug\netcoreapp3.1\LinekdListUC_6.AssemblyInfo.cs
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\obj\Debug\netcoreapp3.1\LinekdListUC_6.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\obj\Debug\netcoreapp3.1\LinekdListUC_6.dll
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\obj\Debug\netcoreapp3.1\LinekdListUC_6.pdb
+E:\fellowship\DAY_14\LinekdListUC_6\LinekdListUC_6\obj\Debug\netcoreapp3.1\LinekdListUC_6.genruntimeconfig.cache
