@@ -1,0 +1,14 @@
+E:\fellowship\DAY_14\insertionsort\insertionsort\bin\Debug\netcoreapp3.1\insertionsort.exe
+E:\fellowship\DAY_14\insertionsort\insertionsort\bin\Debug\netcoreapp3.1\insertionsort.deps.json
+E:\fellowship\DAY_14\insertionsort\insertionsort\bin\Debug\netcoreapp3.1\insertionsort.runtimeconfig.json
+E:\fellowship\DAY_14\insertionsort\insertionsort\bin\Debug\netcoreapp3.1\insertionsort.runtimeconfig.dev.json
+E:\fellowship\DAY_14\insertionsort\insertionsort\bin\Debug\netcoreapp3.1\insertionsort.dll
+E:\fellowship\DAY_14\insertionsort\insertionsort\bin\Debug\netcoreapp3.1\insertionsort.pdb
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.csproj.AssemblyReference.cache
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.AssemblyInfo.cs
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.dll
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.pdb
+E:\fellowship\DAY_14\insertionsort\insertionsort\obj\Debug\netcoreapp3.1\insertionsort.genruntimeconfig.cache

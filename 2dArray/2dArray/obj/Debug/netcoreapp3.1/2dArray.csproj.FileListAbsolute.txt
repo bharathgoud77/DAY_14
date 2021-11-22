@@ -1,0 +1,14 @@
+E:\fellowship\DAY_14\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.exe
+E:\fellowship\DAY_14\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.deps.json
+E:\fellowship\DAY_14\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.runtimeconfig.json
+E:\fellowship\DAY_14\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.runtimeconfig.dev.json
+E:\fellowship\DAY_14\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.dll
+E:\fellowship\DAY_14\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.pdb
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.csproj.AssemblyReference.cache
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.AssemblyInfo.cs
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.dll
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.pdb
+E:\fellowship\DAY_14\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.genruntimeconfig.cache
