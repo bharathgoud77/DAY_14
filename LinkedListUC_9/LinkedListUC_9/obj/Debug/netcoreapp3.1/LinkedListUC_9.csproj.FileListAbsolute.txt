@@ -1,0 +1,13 @@
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\bin\Debug\netcoreapp3.1\LinkedListUC_9.exe
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\bin\Debug\netcoreapp3.1\LinkedListUC_9.deps.json
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\bin\Debug\netcoreapp3.1\LinkedListUC_9.runtimeconfig.json
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\bin\Debug\netcoreapp3.1\LinkedListUC_9.runtimeconfig.dev.json
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\bin\Debug\netcoreapp3.1\LinkedListUC_9.dll
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\bin\Debug\netcoreapp3.1\LinkedListUC_9.pdb
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\obj\Debug\netcoreapp3.1\LinkedListUC_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\obj\Debug\netcoreapp3.1\LinkedListUC_9.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\obj\Debug\netcoreapp3.1\LinkedListUC_9.AssemblyInfo.cs
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\obj\Debug\netcoreapp3.1\LinkedListUC_9.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\obj\Debug\netcoreapp3.1\LinkedListUC_9.dll
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\obj\Debug\netcoreapp3.1\LinkedListUC_9.pdb
+E:\fellowship\DAY_14\LinkedListUC_9\LinkedListUC_9\obj\Debug\netcoreapp3.1\LinkedListUC_9.genruntimeconfig.cache
