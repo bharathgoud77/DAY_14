@@ -1,0 +1,13 @@
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\bin\Debug\netcoreapp3.1\LinkedListUC_5.exe
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\bin\Debug\netcoreapp3.1\LinkedListUC_5.deps.json
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\bin\Debug\netcoreapp3.1\LinkedListUC_5.runtimeconfig.json
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\bin\Debug\netcoreapp3.1\LinkedListUC_5.runtimeconfig.dev.json
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\bin\Debug\netcoreapp3.1\LinkedListUC_5.dll
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\bin\Debug\netcoreapp3.1\LinkedListUC_5.pdb
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\obj\Debug\netcoreapp3.1\LinkedListUC_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\obj\Debug\netcoreapp3.1\LinkedListUC_5.AssemblyInfoInputs.cache
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\obj\Debug\netcoreapp3.1\LinkedListUC_5.AssemblyInfo.cs
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\obj\Debug\netcoreapp3.1\LinkedListUC_5.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\obj\Debug\netcoreapp3.1\LinkedListUC_5.dll
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\obj\Debug\netcoreapp3.1\LinkedListUC_5.pdb
+E:\fellowship\DAY_14\LinkedListUC_5\LinkedListUC_5\obj\Debug\netcoreapp3.1\LinkedListUC_5.genruntimeconfig.cache
